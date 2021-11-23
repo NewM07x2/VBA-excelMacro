@@ -1,2 +1,2 @@
-# VBA-excelMacro
-dev VBA-excelMacro
+# VBA-ExcelMacro
+dev VBA-ExcelMacro
